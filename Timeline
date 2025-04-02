@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang QR</title>
+</head>
+<body style="text-align: center; margin-top: 50px;">
+    <img src="https://drive.google.com/file/d/1M_6eLo0V-0N1-TTCnisu77p4PlcZ1Kx4/view?usp=sharing" alt="QR Code" style="width: 300px; height: auto;">
+    <p>Quét mã QR để truy cập liên kết!</p>
+</body>
+</html>
